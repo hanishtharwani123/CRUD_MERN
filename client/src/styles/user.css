@@ -1,0 +1,58 @@
+.container {
+    width: 720px;
+    background: purple;
+    border-radius: 4px;
+    padding: 25px 9px;
+
+}
+
+.table {
+    padding-top: 25px;
+    padding-bottom: 26px;
+}
+
+.row1 th {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    padding-left: 30px;
+    padding-right: 61px;
+}
+
+.row2 td {
+    color: #dedede;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 30px;
+    padding-top: 19px;
+}
+
+.edit_delete {
+    background: rgb(0, 157, 0);
+    color: #fff;
+    text-align: center;
+    padding: 6px 0px;
+    border-radius: 2px;
+    margin-left: 4px;
+    border: 0;
+    width: 50px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.add_btn {
+    background-color: rgb(0, 157, 0);
+    color: #fff;
+    width: 140px;
+    padding: 10px 15px;
+    text-align: center;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    border: 0;
+    text-decoration: none;
+    margin-top: 10px;
+}

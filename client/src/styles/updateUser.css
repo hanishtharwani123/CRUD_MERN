@@ -1,0 +1,49 @@
+.box {
+    width: 400px;
+    height: 400px;
+    border-radius: 8px;
+    background-color: purple;
+    padding-top: 28px;
+}
+
+.addUser {
+    text-align: center;
+    color: #fff;
+    font-size: 29px;
+    font-weight: 500;
+}
+
+.form {
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+input {
+    width: 300px;
+    border: 0;
+    border-radius: 4px;
+    background-color: #fff;
+    font-size: 17px;
+    padding: 11px 14px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.submit {
+    text-align: center;
+    width: 180px;
+    font-size: 20px;
+    padding: 10px 0px;
+    cursor: pointer;
+    background: rgb(0, 157, 0);
+    color: #fff;
+    border: 0;
+    border-radius: 8px;
+    outline: none;
+}
